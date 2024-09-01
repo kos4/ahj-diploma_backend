@@ -1,0 +1,22 @@
+{
+  "name": "ahj-diploma_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kos4/ahj-diploma_backend"
+  },
+  "author": "kos4",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "1.20.2",
+    "cors": "2.8.5",
+    "express": "4.18.2",
+    "ws": "8.13.0"
+  }
+}
