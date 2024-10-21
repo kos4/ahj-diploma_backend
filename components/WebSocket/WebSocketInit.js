@@ -2,6 +2,7 @@ import fs from "node:fs";
 import WebSocket, {WebSocketServer} from "ws";
 import {SaveChat} from "./SaveChat.js";
 import {checkDir} from "../../functions.js";
+import {PER_PAGE} from "../../define.js";
 
 export const WebSocketInit = (server, userDir) => {
   const wsServer = new WebSocketServer({ server });
@@ -21,8 +22,15 @@ export const WebSocketInit = (server, userDir) => {
           break;
         case "getData":
           const userChat = fs.existsSync(`${userDir}/${receivedMSG.userId}/chat.json`) ? JSON.parse(fs.readFileSync(`${userDir}/${receivedMSG.userId}/chat.json`, 'utf8')) : [];
+          let sendChat;
 
-          ws.send(JSON.stringify({id: req.headers['sec-websocket-key'], userId: receivedMSG.userId, chat: userChat}));
+          if (userChat.length >= 10) {
+            sendChat = userChat.slice(-PER_PAGE);
+          } else {
+            sendChat = userChat;
+          }
+
+          ws.send(JSON.stringify({id: req.headers['sec-websocket-key'], userId: receivedMSG.userId, chat: sendChat}));
           break;
       }
 
