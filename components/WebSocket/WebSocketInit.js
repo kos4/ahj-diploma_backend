@@ -1,4 +1,4 @@
-import fs from "node:fs";
+import fs from "fs";
 import WebSocket, {WebSocketServer} from "ws";
 import {SaveChat} from "./SaveChat.js";
 import {checkDir} from "../../functions.js";
@@ -11,8 +11,10 @@ export const WebSocketInit = (server, userDir) => {
       const receivedMSG = JSON.parse(msg);
 
       checkDir(userDir + '/' + receivedMSG.userId);
-
       switch (receivedMSG.type) {
+        case "files":
+          console.log(receivedMSG);
+          break;
         case "send":
           SaveChat(userDir, receivedMSG);
 

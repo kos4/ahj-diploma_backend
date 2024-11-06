@@ -1,15 +1,13 @@
 export const InitServer = (server) => {
   const port = process.env.PORT || 8082;
 
-  const bootstrap = async () => {
-    try {
-      server.listen(port, () =>
-        console.log(`Server has been started on http://localhost:${port}`)
-      );
-    } catch (error) {
-      console.error(error);
-    }
-  };
+  server.listen(port, (err) => {
+    if (err) {
+      console.log(err);
 
-  bootstrap();
+      return;
+    }
+
+    console.log('Server is listening to ' + port);
+  });
 }

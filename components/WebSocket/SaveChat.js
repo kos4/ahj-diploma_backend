@@ -1,4 +1,4 @@
-import fs from "node:fs";
+import fs from "fs";
 
 export const SaveChat = (userDir, receivedMSG) => {
   let chat = [];
