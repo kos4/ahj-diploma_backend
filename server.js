@@ -11,8 +11,9 @@ import {QuerySendFiles} from "./components/Queries/QuerySendFiles.js";
 const app = new Koa();
 const server = http.createServer(app.callback());
 const userDir = './users';
+const filesDir = './public';
 
-app.use(koaStatic(userDir));
+app.use(koaStatic(filesDir));
 app.use(koaBody({
   urlencoded: true,
   multipart: true,
@@ -24,7 +25,7 @@ app.use((ctx, next) => {
   if (ctx.request.method === 'POST') {
     switch (ctx.request.url) {
       case '/sendFiles':
-        QuerySendFiles(ctx, userDir);
+        QuerySendFiles(ctx, filesDir);
         break;
       case '/login':
         QueryLogin(ctx, userDir);

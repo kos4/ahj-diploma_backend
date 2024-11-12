@@ -1,26 +1,29 @@
-export const QuerySendFiles = (ctx, userDir) => {
-  console.log(ctx.request.files);
+import {checkDir, saveFiles} from "../../functions.js";
 
-  /*let fileName;
-
+export const QuerySendFiles = (ctx, filesDir) => {
   try {
-    const public = path.join(__dirname, '/public');
+    const { userId, message } = ctx.request.body;
+    filesDir += '/' + userId;
+    const { files } = ctx.request.files;
 
-    const { file } = ctx.request.files;
+    checkDir(filesDir);
 
-    const subfolder = uuid.v4();
+    const filesMessage = saveFiles(files, filesDir, userId);
+    let sendMessage = '';
 
-    const uploadFolder = public + '/' + subfolder;
+    filesMessage.forEach(file => {
+      sendMessage += `<a href="${file.url}" class="filesUploadList__item" download target="_blank">${file.name}</a>`;
+    });
 
-    fs.mkdirSync(uploadFolder)
-    fs.copyFileSync(file.path, uploadFolder + '/' + file.name);
-
-    fileName = '/' + subfolder + '/' + file.name;
+    sendMessage = message + `<div class="filesUploadList">${sendMessage}</div>`;
+    ctx.response.body = JSON.stringify({
+      status: 'ok',
+      message: sendMessage,
+    });
   } catch (error) {
-    ctx.response.status = 500;
-
-    return;
+    ctx.response.body = JSON.stringify({
+      status: 'error',
+      message: error,
+    })
   }
-
-  ctx.response.body = fileName;*/
 }

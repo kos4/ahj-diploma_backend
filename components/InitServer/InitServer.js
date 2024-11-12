@@ -1,5 +1,5 @@
 export const InitServer = (server) => {
-  const port = process.env.PORT || 8082;
+const port = process.env.PORT;
 
   server.listen(port, (err) => {
     if (err) {
