@@ -1,6 +1,7 @@
 import Koa from "koa";
 import {koaBody} from "koa-body";
 import koaStatic from "koa-static";
+import cors from '@koa/cors';
 import http from "http";
 import {QueryLogin} from "./components/Queries/QueryLogin.js";
 import {WebSocketInit} from "./components/WebSocket/WebSocketInit.js";
@@ -9,6 +10,7 @@ import {QueryLoadMore} from "./components/Queries/QueryLoadMore.js";
 import {QuerySendFiles} from "./components/Queries/QuerySendFiles.js";
 
 const app = new Koa();
+app.use(cors());
 const server = http.createServer(app.callback());
 const userDir = './users';
 const filesDir = './public';
@@ -19,9 +21,6 @@ app.use(koaBody({
   multipart: true,
 }));
 app.use((ctx, next) => {
-  ctx.set('Access-Control-Allow-Origin', '*');
-  ctx.set('Access-Control-Allow-Methods', 'POST, GET, PUT, DELETE, OPTIONS');
-  
   if (ctx.request.method === 'POST') {
     switch (ctx.request.url) {
       case '/sendFiles':

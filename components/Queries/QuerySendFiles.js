@@ -9,17 +9,21 @@ export const QuerySendFiles = (ctx, filesDir) => {
     checkDir(filesDir);
 
     const filesMessage = saveFiles(files, filesDir, userId);
-    let sendMessage = '';
+    const data = {
+      status: 'ok',
+      message,
+      files: {}
+    };
 
     filesMessage.forEach(file => {
-      sendMessage += `<a href="${file.url}" class="filesUploadList__item" download target="_blank">${file.name}</a>`;
+      if (!data.files.hasOwnProperty(file.type)) {
+        data.files[file.type] = [];
+      }
+
+      data.files[file.type].push(file);
     });
 
-    sendMessage = message + `<div class="filesUploadList">${sendMessage}</div>`;
-    ctx.response.body = JSON.stringify({
-      status: 'ok',
-      message: sendMessage,
-    });
+    ctx.response.body = JSON.stringify(data);
   } catch (error) {
     ctx.response.body = JSON.stringify({
       status: 'error',
