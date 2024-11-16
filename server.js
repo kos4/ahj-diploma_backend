@@ -8,6 +8,7 @@ import {WebSocketInit} from "./components/WebSocket/WebSocketInit.js";
 import {InitServer} from "./components/InitServer/InitServer.js";
 import {QueryLoadMore} from "./components/Queries/QueryLoadMore.js";
 import {QuerySendFiles} from "./components/Queries/QuerySendFiles.js";
+import {QueryLoadSchedule} from "./components/Queries/QueryLoadSchedule.js";
 
 const app = new Koa();
 app.use(cors());
@@ -31,6 +32,9 @@ app.use((ctx, next) => {
         break;
       case '/loadMore':
         QueryLoadMore(ctx, userDir);
+        break;
+      case '/loadSchedule':
+        QueryLoadSchedule(ctx, userDir);
         break;
     }
   }

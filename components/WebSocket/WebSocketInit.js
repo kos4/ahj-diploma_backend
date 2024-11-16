@@ -3,6 +3,7 @@ import WebSocket, {WebSocketServer} from "ws";
 import {SaveChat} from "./SaveChat.js";
 import {checkDir} from "../../functions.js";
 import {PER_PAGE} from "../../define.js";
+import {SaveSchedule} from "./SaveSchedule.js";
 
 export const WebSocketInit = (server, userDir) => {
   const wsServer = new WebSocketServer({ server });
@@ -12,8 +13,18 @@ export const WebSocketInit = (server, userDir) => {
 
       checkDir(userDir + '/' + receivedMSG.userId);
       switch (receivedMSG.type) {
-        case "files":
-          console.log(receivedMSG);
+        case "schedule":
+          const newMsg = {
+            type: receivedMSG.type,
+            date: receivedMSG.date,
+            userId: receivedMSG.userId,
+            message: 'Уведомление успешно создано! ' + receivedMSG.message,
+          };
+          SaveChat(userDir, newMsg);
+          SaveSchedule(userDir, receivedMSG);
+
+          [...wsServer.clients]
+            .forEach((o) => o.send(JSON.stringify(newMsg), { binary: isBinary }));
           break;
         case "send":
           SaveChat(userDir, receivedMSG);
