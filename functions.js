@@ -26,13 +26,23 @@ export function saveFiles(files, filesDir, userId) {
 }
 
 function saveFile(file, filesDir, userId) {
-  const path = filesDir + '/' + file.newFilename + '.' + ext(file.originalFilename);
-  const extFile = ext(file.originalFilename);
+  let extFile;
+  let name;
+
+  if (file.originalFilename === 'blob') {
+    extFile = 'mp3';
+    name = 'Аудиозапись';
+  } else {
+    extFile = ext(file.originalFilename);
+    name = file.originalFilename;
+  }
+
+  const path = filesDir + '/' + file.newFilename + '.' + extFile;
   const type = getType(extFile);
   fs.copyFileSync(file.filepath, path);
 
   return {
-    name: file.originalFilename,
+    name,
     url: 'http://' + process.env.HOST + ':' + process.env.PORT + '/' + userId + '/' + file.newFilename + '.' + extFile,
     type,
   };
