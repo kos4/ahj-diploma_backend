@@ -30,8 +30,18 @@ function saveFile(file, filesDir, userId) {
   let name;
 
   if (file.originalFilename === 'blob') {
-    extFile = 'mp3';
-    name = 'Аудиозапись';
+    const mimeType = file.mimetype.split('/');
+
+    extFile = mimeType[1];
+
+    switch (mimeType[0]) {
+      case 'audio':
+        name = 'Аудиозапись';
+        break;
+      case 'video':
+        name = 'Видеозапись';
+        break;
+    }
   } else {
     extFile = ext(file.originalFilename);
     name = file.originalFilename;
