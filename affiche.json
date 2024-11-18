@@ -1,0 +1,2397 @@
+{
+  "concert": [
+    {
+      "itemId": "Concert_2273841",
+      "itemUrl": "/concert/xxix-ceremoniya-vrucheniya-nacionalnoy-muzykalniy-premii-zolotiy-grammofon-2273841/#rcmrclid=e1d50cd8b550fbf5",
+      "rcmId": "RCM-7BA1",
+      "showId": "e1d50cd8b550fbf5",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2273841",
+        "afishaChoice": false,
+        "name": "XXIX Церемония вручения национальной музыкальной Премии «Золотой Граммофон»",
+        "url": "/concert/xxix-ceremoniya-vrucheniya-nacionalnoy-muzykalniy-premii-zolotiy-grammofon-2273841/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/3f/ef/df94a1d35cd84646bd4038e8ef3f.jpg",
+          "Width": 1600,
+          "Height": 900,
+          "Crop": {
+            "X": 4,
+            "Y": 0,
+            "Width": 1575,
+            "Height": 900
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Поп",
+            "shortName": "pop"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 3000,
+          "scheduleUrl": "/concert/xxix-ceremoniya-vrucheniya-nacionalnoy-muzykalniy-premii-zolotiy-grammofon-2273841/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "12 декабря в 20:00",
+            "place": {
+              "id": "SportBuilding_10322",
+              "name": "ВТБ Арена",
+              "url": "/msk/sportbuilding/vtb-arena-10322/",
+              "address": "Ленинградский просп., 36"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2277046",
+      "itemUrl": "/concert/novogodniy-koncert-zhara-2277046/#rcmrclid=607531498f18e22e",
+      "rcmId": "RCM-7BA1",
+      "showId": "607531498f18e22e",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2277046",
+        "afishaChoice": false,
+        "name": "Новогодний концерт Жара",
+        "url": "/concert/novogodniy-koncert-zhara-2277046/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/ec/30/6cb91d2f23074800b0b1233330ec.jpg",
+          "Width": 2086,
+          "Height": 1180,
+          "Crop": {
+            "X": 9,
+            "Y": 0,
+            "Width": 2065,
+            "Height": 1180
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Поп",
+            "shortName": "pop"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 2000,
+          "scheduleUrl": "/concert/novogodniy-koncert-zhara-2277046/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "18 декабря в 20:00",
+            "place": {
+              "id": "ConcertHall_26778",
+              "name": "Live Арена",
+              "url": "/msk/concerthall/live-arena-26778/",
+              "address": "Одинцовский р-н, пос. Новоивановское, Западная, 145"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2273846",
+      "itemUrl": "/concert/megadiscoteka-ru-zolotye-hity-2273846/#rcmrclid=ee20ef6bc973e2a0",
+      "rcmId": "RCM-7BA1",
+      "showId": "ee20ef6bc973e2a0",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2273846",
+        "afishaChoice": false,
+        "name": "Megadiscoteka.ru — Золотые Хиты",
+        "url": "/concert/megadiscoteka-ru-zolotye-hity-2273846/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/2f/38/b5250d6018d84b29b35ee081382f.jpeg",
+          "Width": 1280,
+          "Height": 853,
+          "Crop": {
+            "X": 0,
+            "Y": 70,
+            "Width": 1280,
+            "Height": 731
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Поп",
+            "shortName": "pop"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 2000,
+          "scheduleUrl": "/concert/megadiscoteka-ru-zolotye-hity-2273846/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "30 ноября в 23:30",
+            "place": {
+              "id": "Club_63869",
+              "name": "Atmosphere",
+              "url": "/msk/club/atmosphere-63869/",
+              "address": "Шмитовский пр., 32а, стр. 1"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2276775",
+      "itemUrl": "/concert/igroprom-festival-videoigr-2276775/#rcmrclid=b585c18a6d129465",
+      "rcmId": "RCM-7BA1",
+      "showId": "b585c18a6d129465",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2276775",
+        "afishaChoice": false,
+        "name": "Игропром: Фестиваль видеоигр",
+        "url": "/concert/igroprom-festival-videoigr-2276775/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/83/5f/3af25fcda761449ea37586955f83.jpeg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 0,
+            "Y": 21,
+            "Width": 2220,
+            "Height": 1268
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Фестиваль",
+            "shortName": "festivals"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 3150,
+          "scheduleUrl": "/concert/igroprom-festival-videoigr-2276775/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "23 и 24 ноября",
+            "place": {
+              "id": "Other_58826",
+              "name": "Пространство Main Stage",
+              "url": "/msk/other/prostranstvo-main-stage-58826/",
+              "address": "Шарикоподшипниковская, 13, стр. 33"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2275926",
+      "itemUrl": "/concert/ii-ceremoniya-vrucheniya-nacionalnoy-premii-blogerov-zvyozdy-hiypa-2275926/#rcmrclid=d8e1d9621baef532",
+      "rcmId": "RCM-7BA1",
+      "showId": "d8e1d9621baef532",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2275926",
+        "afishaChoice": false,
+        "name": "II Церемония вручения национальной премии блогеров «Звёзды Хайпа»",
+        "url": "/concert/ii-ceremoniya-vrucheniya-nacionalnoy-premii-blogerov-zvyozdy-hiypa-2275926/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/b5/69/c0c5b000042747c48ce9ae7369b5.jpg",
+          "Width": 2220,
+          "Height": 1249,
+          "Crop": {
+            "X": 80,
+            "Y": 72,
+            "Width": 2060,
+            "Height": 1177
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Поп",
+            "shortName": "pop"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 299,
+          "scheduleUrl": "/concert/ii-ceremoniya-vrucheniya-nacionalnoy-premii-blogerov-zvyozdy-hiypa-2275926/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "19 ноября в 20:00",
+            "place": {
+              "id": "ConcertHall_26778",
+              "name": "Live Арена",
+              "url": "/msk/concerthall/live-arena-26778/",
+              "address": "Одинцовский р-н, пос. Новоивановское, Западная, 145"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2214324",
+      "itemUrl": "/concert/zhara-music-awards-2214324/#rcmrclid=71c13fb06c463a7f",
+      "rcmId": "RCM-7BA1",
+      "showId": "71c13fb06c463a7f",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2214324",
+        "afishaChoice": false,
+        "name": "Жара Music Awards",
+        "url": "/concert/zhara-music-awards-2214324/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/7e/db/0c9e29e6f53b46b7823c8efedb7e.jpg",
+          "Width": 1600,
+          "Height": 900,
+          "Crop": {
+            "X": 13,
+            "Y": 0,
+            "Width": 1575,
+            "Height": 900
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Поп",
+            "shortName": "pop"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 2200,
+          "scheduleUrl": "/concert/zhara-music-awards-2214324/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "10 апреля в 20:00",
+            "place": {
+              "id": "ConcertHall_26778",
+              "name": "Live Арена",
+              "url": "/msk/concerthall/live-arena-26778/",
+              "address": "Одинцовский р-н, пос. Новоивановское, Западная, 145"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2271247",
+      "itemUrl": "/concert/like-influencer-awards-2024-2271247/#rcmrclid=6f59d6aa7644f7c0",
+      "rcmId": "RCM-7BA1",
+      "showId": "6f59d6aa7644f7c0",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2271247",
+        "afishaChoice": false,
+        "name": "LIKE Influencer Awards 2024",
+        "url": "/concert/like-influencer-awards-2024-2271247/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/df/f3/4b975c351d6740eeb61eff49f3df.jpg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 5,
+            "Y": 121,
+            "Width": 2209,
+            "Height": 1263
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Фестиваль",
+            "shortName": "festivals"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 3500,
+          "scheduleUrl": "/concert/like-influencer-awards-2024-2271247/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "26 ноября в 19:00",
+            "place": {
+              "id": "Club_64076",
+              "name": "Base Club",
+              "url": "/msk/club/base-club-64076/",
+              "address": "Орджоникидзе, 11, стр. 1"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2214323",
+      "itemUrl": "/concert/zhara-media-awards-2214323/#rcmrclid=241cf35d804efb82",
+      "rcmId": "RCM-7BA1",
+      "showId": "241cf35d804efb82",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2214323",
+        "afishaChoice": false,
+        "name": "Жара Media Awards",
+        "url": "/concert/zhara-media-awards-2214323/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/48/19/0391d872d4514b8da9a8e1331948.jpg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 0,
+            "Y": 80,
+            "Width": 2220,
+            "Height": 1268
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Поп",
+            "shortName": "pop"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 2000,
+          "scheduleUrl": "/concert/zhara-media-awards-2214323/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "30 октября в 20:00",
+            "place": {
+              "id": "ConcertHall_26778",
+              "name": "Live Арена",
+              "url": "/msk/concerthall/live-arena-26778/",
+              "address": "Одинцовский р-н, пос. Новоивановское, Западная, 145"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Concert_2280497",
+      "itemUrl": "/concert/unholy-metal-fest-2280497/#rcmrclid=c81c0f6c2eea1ee1",
+      "rcmId": "RCM-7BA1",
+      "showId": "c81c0f6c2eea1ee1",
+      "tile": {
+        "__typename": "Concert",
+        "id": "Concert_2280497",
+        "afishaChoice": false,
+        "name": "Unholy Metal Fest",
+        "url": "/concert/unholy-metal-fest-2280497/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/5f/a1/fbe39998a6c0456b8523b8c7a15f.jpg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 0,
+            "Y": 155,
+            "Width": 2220,
+            "Height": 1269
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Фестиваль",
+            "shortName": "festivals"
+          }
+        ],
+        "concertScheduleMeta": {
+          "minimalPrice": 1500,
+          "scheduleUrl": "/concert/unholy-metal-fest-2280497/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "31 января в 19:00",
+            "place": {
+              "id": "Club_63823",
+              "name": "Урбан",
+              "url": "/msk/club/urban-63823/",
+              "address": "Б.Новодмитровская, 36, стр. 24, дизайн-завод «Флакон»"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    }
+  ],
+  "movie": [
+    {
+      "itemId": "Movie_296079",
+      "itemUrl": "/movie/lyubov-sovetskogo-soyuza-296079/#rcmrclid=d5c2a92452736622",
+      "rcmId": "RCM-7BA1",
+      "showId": "d5c2a92452736622",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_296079",
+        "afishaChoice": false,
+        "rating": 6.6,
+        "ageRestriction": "16+",
+        "name": "Любовь Советского Союза",
+        "url": "/movie/lyubov-sovetskogo-soyuza-296079/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/b8/c1/0fb4c23114934beea8c5bc8cc1b8.jpg",
+          "Width": 3000,
+          "Height": 2000,
+          "Crop": {
+            "X": 0,
+            "Y": 156,
+            "Width": 3000,
+            "Height": 1714
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Исторический",
+            "shortName": "historical_films"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:35:00",
+          "maxDateTime": "2024-11-27T23:30:00",
+          "minimalPrice": 140,
+          "scheduleUrl": "/msk/schedule_cinema_product/lyubov-sovetskogo-soyuza-296079/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 143 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307810",
+      "itemUrl": "/movie/manyunya-priklyucheniya-v-derevne-307810/#rcmrclid=69a309bb7de1b33d",
+      "rcmId": "RCM-7BA1",
+      "showId": "69a309bb7de1b33d",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307810",
+        "afishaChoice": false,
+        "rating": 7.4,
+        "ageRestriction": "6+",
+        "name": "Манюня: Приключения в деревне",
+        "url": "/movie/manyunya-priklyucheniya-v-derevne-307810/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s1.afisha.ru/mediastorage/c7/ac/3639216a406744d6b67e728aacc7.jpg",
+          "Width": 2048,
+          "Height": 858,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Приключение",
+            "shortName": "adventure"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-19T09:00:00",
+          "maxDateTime": "2024-11-27T19:10:00",
+          "minimalPrice": 99,
+          "scheduleUrl": "/msk/schedule_cinema_product/manyunya-priklyucheniya-v-derevne-307810/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "В прокате с 19 ноября",
+            "place": null,
+            "places": "Идет в 142 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307254",
+      "itemUrl": "/movie/eretik-307254/#rcmrclid=1ab3cc37e67f3397",
+      "rcmId": "RCM-7BA1",
+      "showId": "1ab3cc37e67f3397",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307254",
+        "afishaChoice": false,
+        "rating": null,
+        "ageRestriction": "18+",
+        "name": "Еретик",
+        "url": "/movie/eretik-307254/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/fd/51/0be0adf91ea943fb812bdc7951fd.jpg",
+          "Width": 2000,
+          "Height": 1125,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Триллер",
+            "shortName": "thrillers"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:25:00",
+          "maxDateTime": "2024-12-11T16:50:00",
+          "minimalPrice": 140,
+          "scheduleUrl": "/msk/schedule_cinema_product/eretik-307254/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 118 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_294834",
+      "itemUrl": "/movie/ognivo-294834/#rcmrclid=20e05d2f37c76bac",
+      "rcmId": "RCM-7BA1",
+      "showId": "20e05d2f37c76bac",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_294834",
+        "afishaChoice": false,
+        "rating": 6.8,
+        "ageRestriction": "6+",
+        "name": "Огниво",
+        "url": "/movie/ognivo-294834/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/f4/5e/e6c486ccc651467293e1cf5e5ef4.jpg",
+          "Width": 7952,
+          "Height": 5304,
+          "Crop": {
+            "X": 0,
+            "Y": 24,
+            "Width": 7952,
+            "Height": 4544
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Приключение",
+            "shortName": "adventure"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-19T08:10:00",
+          "maxDateTime": "2024-12-26T16:00:00",
+          "minimalPrice": 140,
+          "scheduleUrl": "/msk/schedule_cinema_product/ognivo-294834/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "В прокате с 19 ноября",
+            "place": null,
+            "places": "Идет в 138 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_295905",
+      "itemUrl": "/movie/ruki-vverh-295905/#rcmrclid=893b24f5146e6677",
+      "rcmId": "RCM-7BA1",
+      "showId": "893b24f5146e6677",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_295905",
+        "afishaChoice": false,
+        "rating": 6.9,
+        "ageRestriction": "12+",
+        "name": "Руки вверх!",
+        "url": "/movie/ruki-vverh-295905/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/48/5f/3467c51a17d94c98840290bb5f48.png",
+          "Width": 2880,
+          "Height": 1198,
+          "Crop": {
+            "X": 276,
+            "Y": 0,
+            "Width": 2096,
+            "Height": 1198
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Детектив",
+            "shortName": "mystery"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:30:00",
+          "maxDateTime": "2024-11-27T20:00:00",
+          "minimalPrice": 140,
+          "scheduleUrl": "/msk/schedule_cinema_product/ruki-vverh-295905/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 92 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307029",
+      "itemUrl": "/movie/substanciya-307029/#rcmrclid=a7f912de3578ed2d",
+      "rcmId": "RCM-7BA1",
+      "showId": "a7f912de3578ed2d",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307029",
+        "afishaChoice": false,
+        "rating": 7.1,
+        "ageRestriction": "18+",
+        "name": "Субстанция",
+        "url": "/movie/substanciya-307029/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/c3/de/d2ec2913432f4f3e9a421130dec3.jpg",
+          "Width": 3101,
+          "Height": 2063,
+          "Crop": {
+            "X": 0,
+            "Y": 291,
+            "Width": 3101,
+            "Height": 1772
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Ужасы",
+            "shortName": "horror_movies"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:10:00",
+          "maxDateTime": "2024-12-12T16:00:00",
+          "minimalPrice": 100,
+          "scheduleUrl": "/msk/schedule_cinema_product/substanciya-307029/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 88 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_174794",
+      "itemUrl": "/movie/hodyachiy-zamok-174794/#rcmrclid=e231ca29d070db16",
+      "rcmId": "RCM-7BA1",
+      "showId": "e231ca29d070db16",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_174794",
+        "afishaChoice": true,
+        "rating": 8.3,
+        "ageRestriction": "6+",
+        "name": "Ходячий замок",
+        "url": "/movie/hodyachiy-zamok-174794/",
+        "okko": {
+          "online": {
+            "landingUrl": "https://okko.tv/movie/hauru-no-ugoku-shiro?utm_medium=button&utm_source=afisha.ru"
+          }
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/86/66/4bfbaf48469b4c028e4f24556686.jpg",
+          "Width": 2773,
+          "Height": 1500,
+          "Crop": {
+            "X": 21,
+            "Y": 0,
+            "Width": 2625,
+            "Height": 1500
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Мультфильм",
+            "shortName": "cartoons"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-19T10:00:00",
+          "maxDateTime": "2024-12-13T19:45:00",
+          "minimalPrice": 99,
+          "scheduleUrl": "/msk/schedule_cinema_product/hodyachiy-zamok-174794/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "В прокате с 19 ноября",
+            "place": null,
+            "places": "Идет в 90 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_306515",
+      "itemUrl": "/movie/graf-monte-kristo-306515/#rcmrclid=5595c95937da0d4b",
+      "rcmId": "RCM-7BA1",
+      "showId": "5595c95937da0d4b",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_306515",
+        "afishaChoice": false,
+        "rating": 7.4,
+        "ageRestriction": "12+",
+        "name": "Граф Монте-Кристо",
+        "url": "/movie/graf-monte-kristo-306515/",
+        "okko": {
+          "online": {
+            "landingUrl": "https://okko.tv/movie/le-comte-de-monte-cristo-548217944?utm_medium=button&utm_source=afisha.ru"
+          }
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/97/12/5c7eb274a9c640408c2405831297.jpg",
+          "Width": 1080,
+          "Height": 1350,
+          "Crop": {
+            "X": 0,
+            "Y": 286,
+            "Width": 1080,
+            "Height": 617
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Боевик",
+            "shortName": "action_films"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:40:00",
+          "maxDateTime": "2024-12-10T13:30:00",
+          "minimalPrice": 150,
+          "scheduleUrl": "/msk/schedule_cinema_product/graf-monte-kristo-306515/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 72 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_296113",
+      "itemUrl": "/movie/fedya-narodniy-futbolist-296113/#rcmrclid=7244231b0b861af0",
+      "rcmId": "RCM-7BA1",
+      "showId": "7244231b0b861af0",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_296113",
+        "afishaChoice": false,
+        "rating": 6.7,
+        "ageRestriction": "12+",
+        "name": "Федя. Народный футболист",
+        "url": "/movie/fedya-narodniy-futbolist-296113/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/f2/2f/3ca34f57d9b54d639e9a144c2ff2.jpg",
+          "Width": 3840,
+          "Height": 2160,
+          "Crop": {
+            "X": 541,
+            "Y": 287,
+            "Width": 2784,
+            "Height": 1591
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Биография",
+            "shortName": "biopics"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T22:45:00",
+          "maxDateTime": "2024-11-27T22:05:00",
+          "minimalPrice": 140,
+          "scheduleUrl": "/msk/schedule_cinema_product/fedya-narodniy-futbolist-296113/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 70 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307322",
+      "itemUrl": "/movie/za-slova-otvechayu-307322/#rcmrclid=3cfd6a7e0b48229d",
+      "rcmId": "RCM-7BA1",
+      "showId": "3cfd6a7e0b48229d",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307322",
+        "afishaChoice": false,
+        "rating": null,
+        "ageRestriction": "16+",
+        "name": "За слова отвечаю",
+        "url": "/movie/za-slova-otvechayu-307322/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/13/cd/fcb5b210950542768d67bd9fcd13.png",
+          "Width": 1011,
+          "Height": 630,
+          "Crop": {
+            "X": 0,
+            "Y": 22,
+            "Width": 1011,
+            "Height": 578
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Трагикомедия",
+            "shortName": "comedy_dramas"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:40:00",
+          "maxDateTime": "2024-11-27T23:25:00",
+          "minimalPrice": 150,
+          "scheduleUrl": "/msk/schedule_cinema_product/za-slova-otvechayu-307322/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 110 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_306749",
+      "itemUrl": "/movie/noviy-god-v-berezovke-306749/#rcmrclid=ada06b13c4cf53a0",
+      "rcmId": "RCM-7BA1",
+      "showId": "ada06b13c4cf53a0",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_306749",
+        "afishaChoice": false,
+        "rating": null,
+        "ageRestriction": "12+",
+        "name": "Новый год в Березовке",
+        "url": "/movie/noviy-god-v-berezovke-306749/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/d8/ac/1e107da980864e35adfabcb2acd8.png",
+          "Width": 2560,
+          "Height": 1188,
+          "Crop": {
+            "X": 256,
+            "Y": 0,
+            "Width": 2079,
+            "Height": 1188
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Комедия",
+            "shortName": "comedies"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T22:30:00",
+          "maxDateTime": "2024-11-27T15:05:00",
+          "minimalPrice": 150,
+          "scheduleUrl": "/msk/schedule_cinema_product/noviy-god-v-berezovke-306749/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 46 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_306333",
+      "itemUrl": "/movie/vozvrashchenie-popugaya-keshi-306333/#rcmrclid=16e0899688a3f6c3",
+      "rcmId": "RCM-7BA1",
+      "showId": "16e0899688a3f6c3",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_306333",
+        "afishaChoice": false,
+        "rating": 7.2,
+        "ageRestriction": "6+",
+        "name": "Возвращение попугая Кеши",
+        "url": "/movie/vozvrashchenie-popugaya-keshi-306333/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/4a/29/da8932dedd584d8b81f2aed8294a.jpg",
+          "Width": 3352,
+          "Height": 2241,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Комедия",
+            "shortName": "comedies"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-19T09:25:00",
+          "maxDateTime": "2024-11-27T11:30:00",
+          "minimalPrice": 150,
+          "scheduleUrl": "/msk/schedule_cinema_product/vozvrashchenie-popugaya-keshi-306333/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "В прокате с 19 ноября",
+            "place": null,
+            "places": "Идет в 81 кинотеатре",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307055",
+      "itemUrl": "/movie/anora-307055/#rcmrclid=6f37046157456698",
+      "rcmId": "RCM-7BA1",
+      "showId": "6f37046157456698",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307055",
+        "afishaChoice": false,
+        "rating": 7.2,
+        "ageRestriction": "18+",
+        "name": "Анора",
+        "url": "/movie/anora-307055/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/a8/68/2e782d1037ca482995a754ac68a8.jpeg",
+          "Width": 1440,
+          "Height": 720,
+          "Crop": {
+            "X": 0,
+            "Y": 0,
+            "Width": 1260,
+            "Height": 720
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Мелодрама",
+            "shortName": "melodramas"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:40:00",
+          "maxDateTime": "2024-12-19T16:00:00",
+          "minimalPrice": 100,
+          "scheduleUrl": "/msk/schedule_cinema_product/anora-307055/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 47 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_233459",
+      "itemUrl": "/performance/idealniy-muzh-233459/#rcmrclid=d00bef4b23925aee",
+      "rcmId": "RCM-7BA1",
+      "showId": "d00bef4b23925aee",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_233459",
+        "afishaChoice": false,
+        "rating": 8.1,
+        "name": "Идеальный муж",
+        "url": "/performance/idealniy-muzh-233459/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/dd/77/ea219da697a341ca9a25889b77dd.jpg",
+          "Width": 1160,
+          "Height": 773,
+          "Crop": {
+            "X": 0,
+            "Y": 27,
+            "Width": 1160,
+            "Height": 663
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Комедия",
+            "shortName": "comedies"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-19T19:00:00",
+          "maxDateTime": "2025-03-30T13:00:00",
+          "minimalPrice": 1000,
+          "scheduleUrl": "/performance/idealniy-muzh-233459/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - март 2025",
+            "place": null,
+            "places": "На 4 площадках",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307708",
+      "itemUrl": "/movie/hishchnye-zemli-307708/#rcmrclid=8dab4233a9a91e07",
+      "rcmId": "RCM-7BA1",
+      "showId": "8dab4233a9a91e07",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307708",
+        "afishaChoice": false,
+        "rating": null,
+        "ageRestriction": "16+",
+        "name": "Хищные земли",
+        "url": "/movie/hishchnye-zemli-307708/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/0b/51/c0eac6971dc944c8b052772d510b.jpg",
+          "Width": 2100,
+          "Height": 1400,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Боевик",
+            "shortName": "action_films"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:40:00",
+          "maxDateTime": "2024-11-27T22:00:00",
+          "minimalPrice": 140,
+          "scheduleUrl": "/msk/schedule_cinema_product/hishchnye-zemli-307708/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 100 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_99748",
+      "itemUrl": "/performance/maugli-99748/#rcmrclid=8aab2d5a0c0f01d7",
+      "rcmId": "RCM-7BA1",
+      "showId": "8aab2d5a0c0f01d7",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_99748",
+        "afishaChoice": true,
+        "rating": 8.7,
+        "name": "Маугли",
+        "url": "/performance/maugli-99748/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/4e/95/837d6accdb9141179f9ed30c954e.jpg",
+          "Width": 1000,
+          "Height": 563,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Детский",
+            "shortName": "children_plays"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2025-03-22T12:00:00",
+          "maxDateTime": "2025-03-23T15:00:00",
+          "minimalPrice": 600,
+          "scheduleUrl": "/performance/maugli-99748/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "22 и 23 марта",
+            "place": {
+              "id": "Theatre_15878992",
+              "name": "Театр Терезы Дуровой",
+              "url": "/msk/theatre/teatr-terezy-duroviy-15878992/",
+              "address": "Павловская, 6"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_246193",
+      "itemUrl": "/performance/zhenshchiny-esenina-246193/#rcmrclid=653fe5c29c436ee2",
+      "rcmId": "RCM-7BA1",
+      "showId": "653fe5c29c436ee2",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_246193",
+        "afishaChoice": false,
+        "rating": 8.5,
+        "name": "Женщины Есенина",
+        "url": "/performance/zhenshchiny-esenina-246193/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/97/a6/b032c61a66554d9a93106c46a697.jpg",
+          "Width": 1600,
+          "Height": 900,
+          "Crop": {
+            "X": 13,
+            "Y": 0,
+            "Width": 1575,
+            "Height": 900
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Драматический",
+            "shortName": "drama_plays"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-19T19:00:00",
+          "maxDateTime": "2025-01-12T18:00:00",
+          "minimalPrice": 2500,
+          "scheduleUrl": "/performance/zhenshchiny-esenina-246193/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - январь 2025",
+            "place": {
+              "id": "Theatre_15878492",
+              "name": "МХАТ Горького",
+              "url": "/msk/theatre/mhat-gorkogo-15878492/",
+              "address": "Тверской б-р, 22"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Movie_307105",
+      "itemUrl": "/movie/mese-aznavur-307105/#rcmrclid=74583016cf0c90ec",
+      "rcmId": "RCM-7BA1",
+      "showId": "74583016cf0c90ec",
+      "tile": {
+        "__typename": "Movie",
+        "id": "Movie_307105",
+        "afishaChoice": false,
+        "rating": 6.9,
+        "ageRestriction": "16+",
+        "name": "Месье Азнавур",
+        "url": "/movie/mese-aznavur-307105/",
+        "okko": {
+          "online": null
+        },
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/e3/64/b289ea99a4a344a7b0b77bae64e3.jpeg",
+          "Width": 7083,
+          "Height": 4724,
+          "Crop": {
+            "X": 0,
+            "Y": 268,
+            "Width": 7083,
+            "Height": 4048
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Биография",
+            "shortName": "biopics"
+          }
+        ],
+        "movieScheduleMeta": {
+          "minDateTime": "2024-11-18T21:40:00",
+          "maxDateTime": "2024-12-13T13:00:00",
+          "minimalPrice": 180,
+          "scheduleUrl": "/msk/schedule_cinema_product/mese-aznavur-307105/",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": null,
+            "place": null,
+            "places": "Идет в 42 кинотеатрах",
+            "anotherCity": null
+          }
+        }
+      }
+    }
+  ],
+  "performance": [
+    {
+      "itemId": "Performance_233459",
+      "itemUrl": "/performance/idealniy-muzh-233459/#rcmrclid=789cffe70e8afe2a",
+      "rcmId": "RCM-7BA1",
+      "showId": "789cffe70e8afe2a",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_233459",
+        "afishaChoice": false,
+        "rating": 8.1,
+        "name": "Идеальный муж",
+        "url": "/performance/idealniy-muzh-233459/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/dd/77/ea219da697a341ca9a25889b77dd.jpg",
+          "Width": 1160,
+          "Height": 773,
+          "Crop": {
+            "X": 0,
+            "Y": 27,
+            "Width": 1160,
+            "Height": 663
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Комедия",
+            "shortName": "comedies"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-19T19:00:00",
+          "maxDateTime": "2025-03-30T13:00:00",
+          "minimalPrice": 1000,
+          "scheduleUrl": "/performance/idealniy-muzh-233459/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - март 2025",
+            "place": null,
+            "places": "На 4 площадках",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_99748",
+      "itemUrl": "/performance/maugli-99748/#rcmrclid=152b724655d3644c",
+      "rcmId": "RCM-7BA1",
+      "showId": "152b724655d3644c",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_99748",
+        "afishaChoice": true,
+        "rating": 8.7,
+        "name": "Маугли",
+        "url": "/performance/maugli-99748/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/4e/95/837d6accdb9141179f9ed30c954e.jpg",
+          "Width": 1000,
+          "Height": 563,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Детский",
+            "shortName": "children_plays"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2025-03-22T12:00:00",
+          "maxDateTime": "2025-03-23T15:00:00",
+          "minimalPrice": 600,
+          "scheduleUrl": "/performance/maugli-99748/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "22 и 23 марта",
+            "place": {
+              "id": "Theatre_15878992",
+              "name": "Театр Терезы Дуровой",
+              "url": "/msk/theatre/teatr-terezy-duroviy-15878992/",
+              "address": "Павловская, 6"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_246193",
+      "itemUrl": "/performance/zhenshchiny-esenina-246193/#rcmrclid=6b546b5a270243bd",
+      "rcmId": "RCM-7BA1",
+      "showId": "6b546b5a270243bd",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_246193",
+        "afishaChoice": false,
+        "rating": 8.5,
+        "name": "Женщины Есенина",
+        "url": "/performance/zhenshchiny-esenina-246193/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/97/a6/b032c61a66554d9a93106c46a697.jpg",
+          "Width": 1600,
+          "Height": 900,
+          "Crop": {
+            "X": 13,
+            "Y": 0,
+            "Width": 1575,
+            "Height": 900
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Драматический",
+            "shortName": "drama_plays"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-19T19:00:00",
+          "maxDateTime": "2025-01-12T18:00:00",
+          "minimalPrice": 2500,
+          "scheduleUrl": "/performance/zhenshchiny-esenina-246193/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - январь 2025",
+            "place": {
+              "id": "Theatre_15878492",
+              "name": "МХАТ Горького",
+              "url": "/msk/theatre/mhat-gorkogo-15878492/",
+              "address": "Тверской б-р, 22"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_64980",
+      "itemUrl": "/performance/shchelkunchik-64980/#rcmrclid=ab2402e47d26c578",
+      "rcmId": "RCM-7BA1",
+      "showId": "ab2402e47d26c578",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_64980",
+        "afishaChoice": false,
+        "rating": 8,
+        "name": "Щелкунчик",
+        "url": "/performance/shchelkunchik-64980/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/22/81/3417b22999c349d785cd27f58122.jpg",
+          "Width": 1280,
+          "Height": 853,
+          "Crop": {
+            "X": 0,
+            "Y": 96,
+            "Width": 1280,
+            "Height": 732
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Балет",
+            "shortName": "balley"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-12-20T19:00:00",
+          "maxDateTime": "2025-05-14T19:00:00",
+          "minimalPrice": 1000,
+          "scheduleUrl": "/performance/shchelkunchik-64980/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Декабрь 2024 - май 2025",
+            "place": {
+              "id": "ConcertHall_4733",
+              "name": "Кремлевский дворец",
+              "url": "/msk/concerthall/kremlevskiy-dvorec-4733/",
+              "address": "Кремль"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_277575",
+      "itemUrl": "/performance/v-dzhaze-tolko-devushki-277575/#rcmrclid=0594c28cb557f536",
+      "rcmId": "RCM-7BA1",
+      "showId": "0594c28cb557f536",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_277575",
+        "afishaChoice": false,
+        "rating": 9.3,
+        "name": "В джазе только девушки",
+        "url": "/performance/v-dzhaze-tolko-devushki-277575/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/9d/3e/e395881aa4d446a09602a2153e9d.jpg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 19,
+            "Y": 233,
+            "Width": 2183,
+            "Height": 1247
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Мюзикл",
+            "shortName": "musicals"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-23T15:00:00",
+          "maxDateTime": "2025-01-25T19:30:00",
+          "minimalPrice": 1400,
+          "scheduleUrl": "/performance/v-dzhaze-tolko-devushki-277575/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - январь 2025",
+            "place": {
+              "id": "Other_119768",
+              "name": "Конгресс-центр на Вернадского",
+              "url": "/msk/other/kongress-centr-na-vernadskogo-119768/",
+              "address": "просп. Вернадского, 41, стр. 1"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_202645",
+      "itemUrl": "/performance/love-letters-202645/#rcmrclid=3b431cdc3f89f73c",
+      "rcmId": "RCM-7BA1",
+      "showId": "3b431cdc3f89f73c",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_202645",
+        "afishaChoice": false,
+        "rating": 8.7,
+        "name": "Love Letters",
+        "url": "/performance/love-letters-202645/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/5d/bf/70acb8a0ce6f4b689e82ae3ebf5d.jpg",
+          "Width": 1600,
+          "Height": 900,
+          "Crop": {
+            "X": 25,
+            "Y": 0,
+            "Width": 1575,
+            "Height": 900
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Драматический",
+            "shortName": "drama_plays"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-19T20:00:00",
+          "maxDateTime": "2025-04-02T20:00:00",
+          "minimalPrice": 1500,
+          "scheduleUrl": "/performance/love-letters-202645/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - апрель 2025",
+            "place": null,
+            "places": "На 4 площадках",
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_299914",
+      "itemUrl": "/performance/polniy-vpered-novogodnee-predstavlenie-na-kinostudii-mosfilm-299914/#rcmrclid=7d410ff6b008ee93",
+      "rcmId": "RCM-7BA1",
+      "showId": "7d410ff6b008ee93",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_299914",
+        "afishaChoice": false,
+        "rating": null,
+        "name": "«Полный вперед!» Новогоднее представление на киностудии «Мосфильм»",
+        "url": "/performance/polniy-vpered-novogodnee-predstavlenie-na-kinostudii-mosfilm-299914/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/3e/3d/60f6745f9b5345d0a089e0203d3e.jpg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 0,
+            "Y": 167,
+            "Width": 2220,
+            "Height": 1269
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Детские елки",
+            "shortName": "new_year_for_kids"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-12-21T10:00:00",
+          "maxDateTime": "2025-01-12T16:00:00",
+          "minimalPrice": 1365,
+          "scheduleUrl": "/performance/polniy-vpered-novogodnee-predstavlenie-na-kinostudii-mosfilm-299914/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Декабрь 2024, январь 2025",
+            "place": {
+              "id": "Other_28353",
+              "name": "Киноконцерн «Мосфильм»",
+              "url": "/msk/other/kinokoncern-mosfilm-28353/",
+              "address": "Мосфильмовская, 1"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_204150",
+      "itemUrl": "/performance/onegin-blyuz-204150/#rcmrclid=2bc879f30ad28b66",
+      "rcmId": "RCM-7BA1",
+      "showId": "2bc879f30ad28b66",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_204150",
+        "afishaChoice": false,
+        "rating": 9.4,
+        "name": "Онегин-блюз",
+        "url": "/performance/onegin-blyuz-204150/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s2.afisha.ru/mediastorage/e2/c8/df9d3acf0fa942fa8fd1d032c8e2.jpg",
+          "Width": 1920,
+          "Height": 1080,
+          "Crop": {
+            "X": 15,
+            "Y": 0,
+            "Width": 1890,
+            "Height": 1080
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Драматический",
+            "shortName": "drama_plays"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-18T19:00:00",
+          "maxDateTime": "2025-04-22T19:00:00",
+          "minimalPrice": 1000,
+          "scheduleUrl": "/performance/onegin-blyuz-204150/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - апрель 2025",
+            "place": {
+              "id": "Theatre_15878841",
+              "name": "Театр Эстрады",
+              "url": "/msk/theatre/teatr-estrady-15878841/",
+              "address": "Берсеневская наб., 20/2"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Performance_299882",
+      "itemUrl": "/performance/elementarno-hadson-delo-o-sobake-b-299882/#rcmrclid=b95d93751e039c0d",
+      "rcmId": "RCM-7BA1",
+      "showId": "b95d93751e039c0d",
+      "tile": {
+        "__typename": "Performance",
+        "id": "Performance_299882",
+        "afishaChoice": false,
+        "rating": 9.8,
+        "name": "Элементарно, Хадсон! Дело о собаке Б.",
+        "url": "/performance/elementarno-hadson-delo-o-sobake-b-299882/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/e8/0f/fb4e72e8525444089740189b0fe8.jpg",
+          "Width": 1920,
+          "Height": 1080,
+          "Crop": {
+            "X": 15,
+            "Y": 0,
+            "Width": 1890,
+            "Height": 1080
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Комедия",
+            "shortName": "comedies"
+          }
+        ],
+        "performanceScheduleMeta": {
+          "minDateTime": "2024-11-19T19:00:00",
+          "maxDateTime": "2025-01-31T19:00:00",
+          "minimalPrice": 1400,
+          "scheduleUrl": "/performance/elementarno-hadson-delo-o-sobake-b-299882/?tab=schedule",
+          "hasTickets": true,
+          "promoMeta": {
+            "promoActions": []
+          },
+          "notice": {
+            "additional": null,
+            "dates": "Ноябрь 2024 - январь 2025",
+            "place": {
+              "id": "ConcertHall_4740",
+              "name": "МДМ",
+              "url": "/msk/concerthall/mdm-4740/",
+              "address": "Комсомольский просп., 28"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    }
+  ],
+  "exhibition": [
+    {
+      "itemId": "Exhibition_287458",
+      "itemUrl": "/exhibition/cifrovoe-shou-vi-okean-287458/#rcmrclid=96d57522a4f554e1",
+      "rcmId": "RCM-7BA1",
+      "showId": "96d57522a4f554e1",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_287458",
+        "afishaChoice": false,
+        "name": "Цифровое шоу «VI Океан»",
+        "url": "/exhibition/cifrovoe-shou-vi-okean-287458/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/7b/df/64f7b8dfb547469096486619df7b.jpg",
+          "Width": 2200,
+          "Height": 1467,
+          "Crop": {
+            "X": 0,
+            "Y": 84,
+            "Width": 2200,
+            "Height": 1257
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Новые медиа",
+            "shortName": "new_media"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2023-11-12",
+          "endDate": "2024-12-31",
+          "scheduleUrl": "/exhibition/cifrovoe-shou-vi-okean-287458/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 31 декабря",
+            "place": {
+              "id": "Other_130671",
+              "name": "Арт-пространство Luminar",
+              "url": "/msk/other/art-prostranstvo-luminar-130671/",
+              "address": "2-я Останкинская, 3, МФК «Солнце Москвы»"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_260914",
+      "itemUrl": "/exhibition/salvador-dali-pablo-pikasso-260914/#rcmrclid=fc21c9a37d94706f",
+      "rcmId": "RCM-7BA1",
+      "showId": "fc21c9a37d94706f",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_260914",
+        "afishaChoice": false,
+        "name": "Сальвадор Дали & Пабло Пикассо",
+        "url": "/exhibition/salvador-dali-pablo-pikasso-260914/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s1.afisha.ru/mediastorage/ae/1f/177578f5bf514a368ae084451fae.jpg",
+          "Width": 5000,
+          "Height": 3750,
+          "Crop": {
+            "X": 0,
+            "Y": 269,
+            "Width": 4995,
+            "Height": 2854
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Графика",
+            "shortName": "graphic_arts"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-05-28",
+          "endDate": "2025-01-26",
+          "scheduleUrl": "/exhibition/salvador-dali-pablo-pikasso-260914/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 26 января",
+            "place": {
+              "id": "Other_119521",
+              "name": "Путевой дворец Василия III",
+              "url": "/msk/other/putevoy-dvorec-vasiliya-iii-119521/",
+              "address": "Ст. Басманная, 15, стр. 3"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_236930",
+      "itemUrl": "/exhibition/vr-gallery-236930/#rcmrclid=6cbc63014458198c",
+      "rcmId": "RCM-7BA1",
+      "showId": "6cbc63014458198c",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_236930",
+        "afishaChoice": false,
+        "name": "VR Gallery",
+        "url": "/exhibition/vr-gallery-236930/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/f5/b2/0f857f5bed8f472198949495b2f5.jpg",
+          "Width": 1024,
+          "Height": 575,
+          "Crop": {
+            "X": 0,
+            "Y": 0,
+            "Width": 1006,
+            "Height": 575
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Новые медиа",
+            "shortName": "new_media"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-01-12",
+          "endDate": "2024-11-30",
+          "scheduleUrl": "/exhibition/vr-gallery-236930/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 30 ноября",
+            "place": {
+              "id": "Other_131218",
+              "name": "Музей Artdynamics",
+              "url": "/msk/other/muzey-artdynamics-131218/",
+              "address": "Ниж.Сусальный пер., 5, стр. 10, бизнес-квартал «Арма»"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_302339",
+      "itemUrl": "/exhibition/kod-sveta-prostranstvo-tehnologicheskogo-iskusstva-302339/#rcmrclid=7fdb99acbcc39573",
+      "rcmId": "RCM-7BA1",
+      "showId": "7fdb99acbcc39573",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_302339",
+        "afishaChoice": false,
+        "name": "Код света. Пространство технологического искусства",
+        "url": "/exhibition/kod-sveta-prostranstvo-tehnologicheskogo-iskusstva-302339/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s.afisha.ru/mediastorage/34/74/b0a40b096f0f41079795aed17434.jpg",
+          "Width": 3840,
+          "Height": 2560,
+          "Crop": {
+            "X": 0,
+            "Y": 130,
+            "Width": 3840,
+            "Height": 2194
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Инсталляция",
+            "shortName": "installations"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-07-12",
+          "endDate": "2024-11-30",
+          "scheduleUrl": "/exhibition/kod-sveta-prostranstvo-tehnologicheskogo-iskusstva-302339/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 30 ноября",
+            "place": {
+              "id": "ShowRoom_1036",
+              "name": "Центр «Марс»",
+              "url": "/msk/showroom/centr-mars-1036/",
+              "address": "Пушкарев пер., 5"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_304222",
+      "itemUrl": "/exhibition/master-klass-otkroy-silu-sveta-304222/#rcmrclid=a4371c89fcfb8765",
+      "rcmId": "RCM-7BA1",
+      "showId": "a4371c89fcfb8765",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_304222",
+        "afishaChoice": false,
+        "name": "Мастер-класс «Открой силу света»",
+        "url": "/exhibition/master-klass-otkroy-silu-sveta-304222/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s1.afisha.ru/mediastorage/ae/84/0c61b52171624819873d5cb884ae.jpg",
+          "Width": 1308,
+          "Height": 900,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Мастер-классы",
+            "shortName": "master-classes"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-11-19",
+          "endDate": "2024-12-24",
+          "scheduleUrl": "/exhibition/master-klass-otkroy-silu-sveta-304222/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "с 19 ноября",
+            "place": {
+              "id": "Other_130465",
+              "name": "Культурно-художественный центр «Крылатское»",
+              "url": "/msk/other/kulturno-hudozhestvenniy-centr-krylatskoe-130465/",
+              "address": "Крылатские Холмы, 49"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_304390",
+      "itemUrl": "/exhibition/elements-304390/#rcmrclid=7c25ca7bd8726300",
+      "rcmId": "RCM-7BA1",
+      "showId": "7c25ca7bd8726300",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_304390",
+        "afishaChoice": false,
+        "name": "Elements",
+        "url": "/exhibition/elements-304390/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s1.afisha.ru/mediastorage/2d/c2/141c2e5e7ea04a96880c68f2c22d.jpg",
+          "Width": 1920,
+          "Height": 1280,
+          "Crop": {
+            "X": 0,
+            "Y": 104,
+            "Width": 1920,
+            "Height": 1097
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Новые медиа",
+            "shortName": "new_media"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-10-11",
+          "endDate": "2024-12-31",
+          "scheduleUrl": "/exhibition/elements-304390/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 31 декабря",
+            "place": {
+              "id": "Other_130671",
+              "name": "Арт-пространство Luminar",
+              "url": "/msk/other/art-prostranstvo-luminar-130671/",
+              "address": "2-я Останкинская, 3, МФК «Солнце Москвы»"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_258674",
+      "itemUrl": "/exhibition/ayvazovskiy-kandinskiy-zhivye-polotna-258674/#rcmrclid=6bc7eaf2a91408da",
+      "rcmId": "RCM-7BA1",
+      "showId": "6bc7eaf2a91408da",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_258674",
+        "afishaChoice": false,
+        "name": "Айвазовский. Кандинский. Живые полотна",
+        "url": "/exhibition/ayvazovskiy-kandinskiy-zhivye-polotna-258674/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s3.afisha.ru/mediastorage/22/5e/a84badf567224497bf0dac225e22.jpg",
+          "Width": 5472,
+          "Height": 3648,
+          "Crop": {
+            "X": 0,
+            "Y": 117,
+            "Width": 5472,
+            "Height": 3127
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Интерактивная",
+            "shortName": "interactive_plays"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2022-05-01",
+          "endDate": "2025-02-23",
+          "scheduleUrl": "/exhibition/ayvazovskiy-kandinskiy-zhivye-polotna-258674/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 23 февраля",
+            "place": {
+              "id": "Other_7987",
+              "name": "Пространство «Люмьер-холл»",
+              "url": "/msk/other/prostranstvo-lyumer-holl-7987/",
+              "address": "Берсеневский пер., 2, стр. 1, арт-кластер «Красный Октябрь»"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_302797",
+      "itemUrl": "/exhibition/master-klass-neonovye-svetilniki-302797/#rcmrclid=ab489ed8b639397b",
+      "rcmId": "RCM-7BA1",
+      "showId": "ab489ed8b639397b",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_302797",
+        "afishaChoice": false,
+        "name": "Мастер-класс «Неоновые светильники»",
+        "url": "/exhibition/master-klass-neonovye-svetilniki-302797/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/84/64/f44d647eaee84f51b5d5ece96484.jpg",
+          "Width": 1197,
+          "Height": 749,
+          "Crop": null
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Мастер-классы",
+            "shortName": "master-classes"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-11-26",
+          "endDate": "2024-12-13",
+          "scheduleUrl": "/exhibition/master-klass-neonovye-svetilniki-302797/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "с 26 ноября",
+            "place": {
+              "id": "Other_130726",
+              "name": "Центр искусств",
+              "url": "/msk/other/centr-iskusstv-130726/",
+              "address": "Лобачевского, 100"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_303996",
+      "itemUrl": "/exhibition/sekrety-dzhuzeppe-archimboldo-303996/#rcmrclid=3e96626a6ed7ef6b",
+      "rcmId": "RCM-7BA1",
+      "showId": "3e96626a6ed7ef6b",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_303996",
+        "afishaChoice": false,
+        "name": "Секреты Джузеппе Арчимбольдо",
+        "url": "/exhibition/sekrety-dzhuzeppe-archimboldo-303996/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s4.afisha.ru/mediastorage/2d/ad/e370e70271b44a07a7fd4544ad2d.jpg",
+          "Width": 2220,
+          "Height": 1480,
+          "Crop": {
+            "X": 0,
+            "Y": 108,
+            "Width": 2220,
+            "Height": 1269
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Новые медиа",
+            "shortName": "new_media"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-09-25",
+          "endDate": "2024-11-30",
+          "scheduleUrl": "/exhibition/sekrety-dzhuzeppe-archimboldo-303996/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 30 ноября",
+            "place": {
+              "id": "Other_131218",
+              "name": "Музей Artdynamics",
+              "url": "/msk/other/muzey-artdynamics-131218/",
+              "address": "Ниж.Сусальный пер., 5, стр. 10, бизнес-квартал «Арма»"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    },
+    {
+      "itemId": "Exhibition_303804",
+      "itemUrl": "/exhibition/sense-geometriya-chuvstv-303804/#rcmrclid=f4f9a1d7f188cfef",
+      "rcmId": "RCM-7BA1",
+      "showId": "f4f9a1d7f188cfef",
+      "tile": {
+        "__typename": "Exhibition",
+        "id": "Exhibition_303804",
+        "afishaChoice": false,
+        "name": "Sense. Геометрия чувств",
+        "url": "/exhibition/sense-geometriya-chuvstv-303804/",
+        "image": {
+          "__typename": "Image",
+          "Url": "https://s5.afisha.ru/mediastorage/48/f5/fccd27c1dac944e395cd7bd2f548.jpg",
+          "Width": 1280,
+          "Height": 740,
+          "Crop": {
+            "X": 0,
+            "Y": 0,
+            "Width": 1280,
+            "Height": 731
+          }
+        },
+        "genres": [
+          {
+            "__typename": "Tag",
+            "name": "Новые медиа",
+            "shortName": "new_media"
+          }
+        ],
+        "exbibitionScheduleMeta": {
+          "startDate": "2024-09-27",
+          "endDate": "2024-11-30",
+          "scheduleUrl": "/exhibition/sense-geometriya-chuvstv-303804/",
+          "hasTickets": true,
+          "notice": {
+            "additional": null,
+            "dates": "до 30 ноября",
+            "place": {
+              "id": "ShowRoom_1036",
+              "name": "Центр «Марс»",
+              "url": "/msk/showroom/centr-mars-1036/",
+              "address": "Пушкарев пер., 5"
+            },
+            "places": null,
+            "anotherCity": null
+          }
+        }
+      }
+    }
+  ]
+}

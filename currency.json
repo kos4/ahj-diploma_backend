@@ -1,0 +1,389 @@
+[
+  {
+    "NumCode": "036",
+    "CharCode": "AUD",
+    "Nominal": "1",
+    "Name": "Australian Dollar",
+    "Value": "64,6581",
+    "VunitRate": "64,6581",
+    "_ID": "R01010"
+  },
+  {
+    "NumCode": "944",
+    "CharCode": "AZN",
+    "Nominal": "1",
+    "Name": "Azerbaijan Manat",
+    "Value": "58,8218",
+    "VunitRate": "58,8218",
+    "_ID": "R01020A"
+  },
+  {
+    "NumCode": "826",
+    "CharCode": "GBP",
+    "Nominal": "1",
+    "Name": "Pound Sterling",
+    "Value": "127,0763",
+    "VunitRate": "127,0763",
+    "_ID": "R01035"
+  },
+  {
+    "NumCode": "051",
+    "CharCode": "AMD",
+    "Nominal": "100",
+    "Name": "Armenian Dram",
+    "Value": "25,7559",
+    "VunitRate": "0,257559",
+    "_ID": "R01060"
+  },
+  {
+    "NumCode": "933",
+    "CharCode": "BYN",
+    "Nominal": "1",
+    "Name": "Belarusian Ruble",
+    "Value": "29,6279",
+    "VunitRate": "29,6279",
+    "_ID": "R01090B"
+  },
+  {
+    "NumCode": "975",
+    "CharCode": "BGN",
+    "Nominal": "1",
+    "Name": "Bulgarian Lev",
+    "Value": "53,8528",
+    "VunitRate": "53,8528",
+    "_ID": "R01100"
+  },
+  {
+    "NumCode": "986",
+    "CharCode": "BRL",
+    "Nominal": "1",
+    "Name": "Brazilian Real",
+    "Value": "17,2760",
+    "VunitRate": "17,276",
+    "_ID": "R01115"
+  },
+  {
+    "NumCode": "348",
+    "CharCode": "HUF",
+    "Nominal": "100",
+    "Name": "Forint",
+    "Value": "26,0084",
+    "VunitRate": "0,260084",
+    "_ID": "R01135"
+  },
+  {
+    "NumCode": "704",
+    "CharCode": "VND",
+    "Nominal": "10000",
+    "Name": "Dong",
+    "Value": "41,1545",
+    "VunitRate": "0,00411545",
+    "_ID": "R01150"
+  },
+  {
+    "NumCode": "344",
+    "CharCode": "HKD",
+    "Nominal": "1",
+    "Name": "Hong Kong Dollar",
+    "Value": "12,8680",
+    "VunitRate": "12,868",
+    "_ID": "R01200"
+  },
+  {
+    "NumCode": "981",
+    "CharCode": "GEL",
+    "Nominal": "1",
+    "Name": "Lari",
+    "Value": "36,5834",
+    "VunitRate": "36,5834",
+    "_ID": "R01210"
+  },
+  {
+    "NumCode": "208",
+    "CharCode": "DKK",
+    "Nominal": "1",
+    "Name": "Danish Krone",
+    "Value": "14,1203",
+    "VunitRate": "14,1203",
+    "_ID": "R01215"
+  },
+  {
+    "NumCode": "784",
+    "CharCode": "AED",
+    "Nominal": "1",
+    "Name": "UAE Dirham",
+    "Value": "27,2286",
+    "VunitRate": "27,2286",
+    "_ID": "R01230"
+  },
+  {
+    "NumCode": "840",
+    "CharCode": "USD",
+    "Nominal": "1",
+    "Name": "US Dollar",
+    "Value": "99,9971",
+    "VunitRate": "99,9971",
+    "_ID": "R01235"
+  },
+  {
+    "NumCode": "978",
+    "CharCode": "EUR",
+    "Nominal": "1",
+    "Name": "Euro",
+    "Value": "105,7072",
+    "VunitRate": "105,7072",
+    "_ID": "R01239"
+  },
+  {
+    "NumCode": "818",
+    "CharCode": "EGP",
+    "Nominal": "10",
+    "Name": "Egyptian Pound",
+    "Value": "20,2507",
+    "VunitRate": "2,02507",
+    "_ID": "R01240"
+  },
+  {
+    "NumCode": "356",
+    "CharCode": "INR",
+    "Nominal": "10",
+    "Name": "Indian Rupee",
+    "Value": "11,8473",
+    "VunitRate": "1,18473",
+    "_ID": "R01270"
+  },
+  {
+    "NumCode": "360",
+    "CharCode": "IDR",
+    "Nominal": "10000",
+    "Name": "Rupiah",
+    "Value": "62,9982",
+    "VunitRate": "0,00629982",
+    "_ID": "R01280"
+  },
+  {
+    "NumCode": "398",
+    "CharCode": "KZT",
+    "Nominal": "100",
+    "Name": "Tenge",
+    "Value": "20,2485",
+    "VunitRate": "0,202485",
+    "_ID": "R01335"
+  },
+  {
+    "NumCode": "124",
+    "CharCode": "CAD",
+    "Nominal": "1",
+    "Name": "Canadian Dollar",
+    "Value": "71,2890",
+    "VunitRate": "71,289",
+    "_ID": "R01350"
+  },
+  {
+    "NumCode": "634",
+    "CharCode": "QAR",
+    "Nominal": "1",
+    "Name": "Qatari Rial",
+    "Value": "27,4717",
+    "VunitRate": "27,4717",
+    "_ID": "R01355"
+  },
+  {
+    "NumCode": "417",
+    "CharCode": "KGS",
+    "Nominal": "10",
+    "Name": "Som",
+    "Value": "11,5604",
+    "VunitRate": "1,15604",
+    "_ID": "R01370"
+  },
+  {
+    "NumCode": "156",
+    "CharCode": "CNY",
+    "Nominal": "1",
+    "Name": "Yuan Renminbi",
+    "Value": "13,7992",
+    "VunitRate": "13,7992",
+    "_ID": "R01375"
+  },
+  {
+    "NumCode": "498",
+    "CharCode": "MDL",
+    "Nominal": "10",
+    "Name": "Moldovan Leu",
+    "Value": "55,3289",
+    "VunitRate": "5,53289",
+    "_ID": "R01500"
+  },
+  {
+    "NumCode": "554",
+    "CharCode": "NZD",
+    "Nominal": "1",
+    "Name": "New Zealand Dollar",
+    "Value": "58,4433",
+    "VunitRate": "58,4433",
+    "_ID": "R01530"
+  },
+  {
+    "NumCode": "578",
+    "CharCode": "NOK",
+    "Nominal": "10",
+    "Name": "Norwegian Krone",
+    "Value": "89,5710",
+    "VunitRate": "8,9571",
+    "_ID": "R01535"
+  },
+  {
+    "NumCode": "985",
+    "CharCode": "PLN",
+    "Nominal": "1",
+    "Name": "Zloty",
+    "Value": "24,4504",
+    "VunitRate": "24,4504",
+    "_ID": "R01565"
+  },
+  {
+    "NumCode": "946",
+    "CharCode": "RON",
+    "Nominal": "1",
+    "Name": "Romanian Leu",
+    "Value": "21,2502",
+    "VunitRate": "21,2502",
+    "_ID": "R01585F"
+  },
+  {
+    "NumCode": "960",
+    "CharCode": "XDR",
+    "Nominal": "1",
+    "Name": "SDR (Special Drawing Right)",
+    "Value": "131,1782",
+    "VunitRate": "131,1782",
+    "_ID": "R01589"
+  },
+  {
+    "NumCode": "702",
+    "CharCode": "SGD",
+    "Nominal": "1",
+    "Name": "Singapore Dollar",
+    "Value": "74,3749",
+    "VunitRate": "74,3749",
+    "_ID": "R01625"
+  },
+  {
+    "NumCode": "972",
+    "CharCode": "TJS",
+    "Nominal": "10",
+    "Name": "Somoni",
+    "Value": "93,8358",
+    "VunitRate": "9,38358",
+    "_ID": "R01670"
+  },
+  {
+    "NumCode": "764",
+    "CharCode": "THB",
+    "Nominal": "10",
+    "Name": "Baht",
+    "Value": "28,6631",
+    "VunitRate": "2,86631",
+    "_ID": "R01675"
+  },
+  {
+    "NumCode": "949",
+    "CharCode": "TRY",
+    "Nominal": "10",
+    "Name": "Turkish Lira",
+    "Value": "29,1278",
+    "VunitRate": "2,91278",
+    "_ID": "R01700J"
+  },
+  {
+    "NumCode": "934",
+    "CharCode": "TMT",
+    "Nominal": "1",
+    "Name": "Turkmenistan New Manat",
+    "Value": "28,5706",
+    "VunitRate": "28,5706",
+    "_ID": "R01710A"
+  },
+  {
+    "NumCode": "860",
+    "CharCode": "UZS",
+    "Nominal": "10000",
+    "Name": "Uzbekistan Sum",
+    "Value": "78,1219",
+    "VunitRate": "0,00781219",
+    "_ID": "R01717"
+  },
+  {
+    "NumCode": "980",
+    "CharCode": "UAH",
+    "Nominal": "10",
+    "Name": "Hryvnia",
+    "Value": "24,2449",
+    "VunitRate": "2,42449",
+    "_ID": "R01720"
+  },
+  {
+    "NumCode": "203",
+    "CharCode": "CZK",
+    "Nominal": "10",
+    "Name": "Czech Koruna",
+    "Value": "41,6325",
+    "VunitRate": "4,16325",
+    "_ID": "R01760"
+  },
+  {
+    "NumCode": "752",
+    "CharCode": "SEK",
+    "Nominal": "10",
+    "Name": "Swedish Krona",
+    "Value": "90,7757",
+    "VunitRate": "9,07757",
+    "_ID": "R01770"
+  },
+  {
+    "NumCode": "756",
+    "CharCode": "CHF",
+    "Nominal": "1",
+    "Name": "Swiss Franc",
+    "Value": "112,5840",
+    "VunitRate": "112,584",
+    "_ID": "R01775"
+  },
+  {
+    "NumCode": "941",
+    "CharCode": "RSD",
+    "Nominal": "100",
+    "Name": "Serbian Dinar",
+    "Value": "90,1123",
+    "VunitRate": "0,901123",
+    "_ID": "R01805F"
+  },
+  {
+    "NumCode": "710",
+    "CharCode": "ZAR",
+    "Nominal": "10",
+    "Name": "Rand",
+    "Value": "54,8356",
+    "VunitRate": "5,48356",
+    "_ID": "R01810"
+  },
+  {
+    "NumCode": "410",
+    "CharCode": "KRW",
+    "Nominal": "1000",
+    "Name": "Won",
+    "Value": "71,1015",
+    "VunitRate": "0,0711015",
+    "_ID": "R01815"
+  },
+  {
+    "NumCode": "392",
+    "CharCode": "JPY",
+    "Nominal": "100",
+    "Name": "Yen",
+    "Value": "63,9654",
+    "VunitRate": "0,639654",
+    "_ID": "R01820"
+  }
+]

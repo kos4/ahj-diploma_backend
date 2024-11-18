@@ -1,0 +1,37 @@
+[
+  {
+    "temperature": 3,
+    "wind": 1,
+    "condition": "пасмурно",
+    "humidity": 50,
+    "pressure": 735
+  },
+  {
+    "temperature": -2,
+    "wind": 4.5,
+    "condition": "возможен снег",
+    "humidity": 86,
+    "pressure": 740
+  },
+  {
+    "temperature": -2,
+    "wind": 4.5,
+    "condition": "возможен снег",
+    "humidity": 86,
+    "pressure": 740
+  },
+  {
+    "temperature": 5,
+    "wind": 0,
+    "condition": "ясно",
+    "humidity": 60,
+    "pressure": 738
+  },
+  {
+    "temperature": 0,
+    "wind": 3,
+    "condition": "малооблачно",
+    "humidity": 75,
+    "pressure": 733
+  }
+]

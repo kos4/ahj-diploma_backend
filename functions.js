@@ -1,6 +1,12 @@
 import fs from "node:fs";
 import mimeTypes from "./mime_tipes.json" assert { type: "json" };
 
+export function randomInteger(min, max) {
+  // случайное число от min до (max+1)
+  let rand = min + Math.random() * (max + 1 - min);
+  return Math.floor(rand);
+}
+
 export const checkDir = (dir) => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
