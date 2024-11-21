@@ -1,4 +1,4 @@
-import afficheList from "../../affiche.json" assert { type: "json" };
+import afficheList from "../../affiche.json" with { type: "json" };
 import {randomInteger} from "../../functions.js";
 
 export const FetchAffiche = (message) => {

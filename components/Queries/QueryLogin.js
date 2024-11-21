@@ -1,4 +1,4 @@
-import userState from "../../users.json" assert { type: "json" };
+import userState from "../../users.json" with { type: "json" };
 import crypto from "crypto";
 import fs from "fs";
 import {checkDir} from "../../functions.js";

@@ -1,4 +1,4 @@
-import movieList from "../../movie.json" assert { type: "json" };
+import movieList from "../../movie.json" with { type: "json" };
 import {randomInteger} from "../../functions.js";
 
 export const FetchMovie = (message) => {

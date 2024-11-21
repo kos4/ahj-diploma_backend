@@ -1,4 +1,4 @@
-import weatherList from '../../weather.json' assert { type: "json" };
+import weatherList from '../../weather.json' with { type: "json" };
 import {randomInteger} from "../../functions.js";
 
 export const FetchWeather = message => {

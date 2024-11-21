@@ -1,4 +1,4 @@
-import currencyList from "../../currency.json" assert { type: "json" };
+import currencyList from "../../currency.json" with { type: "json" };
 
 export const FetchCurrency = (currency) => {
   const currencyData = currencyList.filter(i => i.CharCode === currency)[0];

@@ -1,4 +1,4 @@
-import timeZone from "../../timeZone.json" assert { type: "json" };
+import timeZone from "../../timeZone.json" with { type: "json" };
 import moment from "moment-timezone";
 export const GetTime = city => {
   const cityData = timeZone.filter(i => i.name === city)[0];

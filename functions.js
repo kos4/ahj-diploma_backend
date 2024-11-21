@@ -1,5 +1,5 @@
 import fs from "node:fs";
-import mimeTypes from "./mime_tipes.json" assert { type: "json" };
+import mimeTypes from "./mime_tipes.json" with { type: "json" };
 
 export function randomInteger(min, max) {
   // случайное число от min до (max+1)
